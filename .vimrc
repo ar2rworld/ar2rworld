@@ -5,6 +5,5 @@ set tabstop=2
 set shiftwidth=2
 " Use spaces when pressing <tab> key
 set expandtab
-set autoindent
 set cindent
 inoremap { {<CR>}<up><end><CR>
