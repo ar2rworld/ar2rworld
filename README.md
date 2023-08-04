@@ -1,10 +1,11 @@
 # I am Artur Linnik, Ola & Salem!
 
-## Junior Software Deleloper
+## Software Deleloper
 
 <ul>
 <li>React.js single page writer</li>
 <li>Python leaner</li>
+<li>Golang explorer</li>
 <li>Fun bots creator</li>
 </ul>
 
